@@ -1,0 +1,11 @@
+{
+  "name": "categorizador-produtos",
+  "version": "1.0.0",
+  "description": "Algoritmo para categorizar produtos de supermercado",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
